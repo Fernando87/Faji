@@ -1,2 +1,2 @@
-# Faji
-trabajo html/css con JS
+# JavaScript
+Proyecto JS
